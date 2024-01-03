@@ -20,4 +20,3 @@ Download main.cpp and open in any IDE.
 ## Authors
 
 - [@m1lean](https://www.github.com/m1lean)
-
